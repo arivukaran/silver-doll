@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: silver-doll
+  annotations:
+    github.com/project-slug: arivukaran/silver-doll
+spec:
+  type: other
+  lifecycle: unknown
+  owner: arivukaran
