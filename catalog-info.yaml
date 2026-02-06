@@ -6,13 +6,7 @@ metadata:
     github.com/project-slug: arivukaran/silver-doll
   links:
     - title: Website
-      url: http://backstage.io
-    - title: Documentation
-      url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+      url: http://dashboard.com
 spec:
   type: other
   lifecycle: unknown
