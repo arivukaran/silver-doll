@@ -4,7 +4,7 @@ metadata:
   name: silver-doll
   annotations:
     github.com/project-slug: arivukaran/silver-doll
- links:
+  links:
     - title: Website
       url: http://backstage.io
     - title: Documentation
@@ -17,4 +17,5 @@ spec:
   type: other
   lifecycle: unknown
   owner: arivukaran
+
 
