@@ -8,3 +8,9 @@ spec:
   type: other
   lifecycle: unknown
   owner: arivukaran
+metadata:
+  name: example
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
