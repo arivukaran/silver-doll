@@ -4,13 +4,17 @@ metadata:
   name: silver-doll
   annotations:
     github.com/project-slug: arivukaran/silver-doll
+ links:
+    - title: Website
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
 spec:
   type: other
   lifecycle: unknown
   owner: arivukaran
-metadata:
-  name: example
-  links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
-      icon: dashboard
+
